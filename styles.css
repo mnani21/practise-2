@@ -15,5 +15,11 @@ Footer{
 }
 H1{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
+    color: antiquewhite;
+}
+a{
+    color: antiquewhite;
+}
+a:hover{
+    text-decoration: underline;
 }
